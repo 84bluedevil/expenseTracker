@@ -22,11 +22,19 @@ body {
 .container {
   margin: 30px auto;
   width: 350px;
+  border: black 2px solid;
+  border-radius: 16px;
+  padding: 10px;
+  background-color: rgba(203, 216, 131, 0.5);
 }
 
 h1 {
   letter-spacing: 1px;
   margin: 0;
+}
+
+h2 {
+  text-align: center;
 }
 
 h3 {
